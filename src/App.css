@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.box{
+  height: 80px;
+  width: 80px;
+  border: 1px solid black;
+  display: inline-block;
+  line-height: 80px;
+  font-size: 20px;
+}
+
+.border{
+  width: 320px;
+  display: inline-flex;
+  flex-wrap: wrap;
+}
